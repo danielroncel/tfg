@@ -26,6 +26,6 @@ Network formation model inspired in [Karimi et al., 2018] and [Germano et al., 2
 
 ### Bibliography
 
-[Karimi et al., 2018] Karimi, F., G ́enois, M., Wagner, C., Singer, P., and Strohmaier, M. (2018). Homophily influences ranking of minorities in social networks. Scientific reports, 8(1):1–12.
+[Karimi et al., 2018] Karimi, F., Génois, M., Wagner, C., Singer, P., and Strohmaier, M. (2018). Homophily influences ranking of minorities in social networks. Scientific reports, 8(1):1–12.
 
-[Germano et al., 2019] Germano, F., G ́omez, V., and Le Mens, G. (2019). The few-get-richer: A surprising consequence of popularity-based rankings. In The World Wide Web Conference, pages 2764–2770.
+[Germano et al., 2019] Germano, F., Gómez, V., and Le Mens, G. (2019). The few-get-richer: A surprising consequence of popularity-based rankings. In The World Wide Web Conference, pages 2764–2770.
