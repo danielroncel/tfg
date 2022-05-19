@@ -66,7 +66,10 @@ def model(n, m, c0, c1, h):
     random.shuffle(node_class)
     
     # Create an empty graph with n nodes
-    G = nx.empty_graph(n)
+    # Multigraph because it is possible that at timestep i node i
+    # generates an edge with node j, and that at timestep j > i node j
+    # generates an edge with node i
+    G = nx.MultiGraph(nx.empty_graph(n))
     G.name="model(%s,%s)"%(n,m)
     
     nodes = list(G.nodes)
