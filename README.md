@@ -6,11 +6,11 @@ Due to storage limiation, this repository does not contain the data of all the e
 
 ## Content
 
-### Homophilic Barabási-Albert model
+### Homophilic Barabási-Albert model (PAH model)
 
 Implementation of the network formation model described in [Karimi et al., 2018]. This model was implemented for a better understanding of the model. The material related to this model is stored in folder *tfg/homophilic_ba*. It contains a single jupyter notebook with the model implementation, graph examples and some plots to study the effect of the parameters of the model in the disparate impact of the minority class.
 
-### Homophilic model without preferential attachment
+### PAH without preferential attachment
 
 Variation of the network formation model described in [Karimi et al., 2018] in which the preferential attachment mechanism has been removed. It corresponds to the first model explored in the TFG document. The material related to this model is stored in folder *tfg/homophilic_no_preferential_attachment*. It contains:
 
@@ -20,7 +20,7 @@ Variation of the network formation model described in [Karimi et al., 2018] in w
   *  create_plots.ipynb: Notebook used to create the plots.
   *  outputs/: folder with the data of an experiment used as example.
 
-### Network formation model with preference parameter
+### PAP model
 
 Network formation model inspired in [Karimi et al., 2018] and [Germano et al., 2019]. It corresponds to the second model explored in the TFG document. The material related to this model is stored in folder *tfg/homophilic_no_preferential_attachment*. It has the same structure as *tfg/homophilic_no_preferential_attachment*.
 
