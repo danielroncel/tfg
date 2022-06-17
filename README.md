@@ -2,7 +2,7 @@
 
 Repository with the network formation models implemented during my Final Degree Project. It also includes the notebooks used to run the experiments and to create the plots shown in the document.
 
-Due to storage limiation, this repository does not contain the data of all the experiments shown in the TFG document (more than 20 GB), but the results of an experiment used as example. However, with this repository all those experiments can be reproduced.
+Due to storage limitation, this repository does not contain the data of all the experiments shown in the TFG document (more than 20 GB), but the results of an experiment used as example. However, with this repository all those experiments can be reproduced.
 
 ## Content
 
